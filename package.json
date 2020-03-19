@@ -1,0 +1,13 @@
+{
+  "name": "chasrnet-db",
+  "version": "0.0.1",
+  "description": "Backend for the Chasr.net Website",
+  "main": "index.js",
+  "repository": "https://github.com/chasrnet/chasrnet-db",
+  "author": "Daniel Ramirez <pryrios@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
+}
